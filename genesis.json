@@ -1,0 +1,23 @@
+{
+  "timestamp": 1735516800,
+  "difficulty": 4,
+  "chain_id": "dinari-mainnet-1",
+  "network_id": 1,
+  "block_reward": 50.0,
+  "extra_data": "DinariBlockchain Genesis Block - Cross-Border Payments",
+  "treasury_config": {
+    "address": "DTTreasury000000000000000000",
+    "initial_supply": 1000000000.0,
+    "max_supply": 10000000000.0
+  },
+  "allocations": {
+    "DTFoundation123456789012345": 100000000.0,
+    "DTDevelopment012345678901234": 50000000.0
+  },
+  "admin_addresses": [
+    "DTAdmin1234567890123456789012"
+  ],
+  "minter_addresses": [
+    "DTMinter123456789012345678901"
+  ]
+}
